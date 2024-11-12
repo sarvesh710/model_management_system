@@ -1,0 +1,14 @@
+{
+    "include": [
+        "./src/**/*"
+    ],
+    "compilerOptions": {
+        "strict": true,
+        "noEmitOnError": true,
+        "target": "es6",
+        "module": "commonjs",
+        "jsx": "react",
+        "outDir": "./dist",
+        "types": ["jest", "node"]
+      }
+}
