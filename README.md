@@ -1,6 +1,7 @@
 # model_management_system
 
 Created with CodeSandbox
+Purpose: Assignment
 
 ## Model Management System
 
